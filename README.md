@@ -1,6 +1,8 @@
-.Password-Generator ------ https://passowrdd-generator.netlify.app/
+Password-Generator ------ https://passowrdd-generator.netlify.app/
 
 Basic-Todo--------https://basic-todo-practicee.netlify.app/ 
+
+tip calculator------ https://tip-calculatorrrrrr.netlify.app/
  
 Accordion------https://accordionnnn.netlify.app/
 
