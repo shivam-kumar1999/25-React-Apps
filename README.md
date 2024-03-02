@@ -5,8 +5,10 @@ Basic-Todo--------https://basic-todo-practicee.netlify.app/
 Tip calculator------ https://tip-calculatorrrrrr.netlify.app/
 
 StopWatch------- https://stopwatchhh-with-react.netlify.app/
- 
+
 Accordion------https://accordionnnn.netlify.app/
+
+Modal---- https://modaaaal.netlify.app/
 
 Flashcards------- https://flashcardssss.netlify.app/
 
